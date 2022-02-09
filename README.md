@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to ERPKU
 
 You can use the [editor on GitHub](https://github.com/arivax/arivax.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
